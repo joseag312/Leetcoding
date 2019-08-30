@@ -1,3 +1,7 @@
+# Idea from FFurus:
+# Using modulo and lists, I believe an approach like this could be generated with.
+# Logic similar to the Plus One problem established before.
+
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
         num1 = list(a)
